@@ -1,5 +1,7 @@
 # 한국외국어대학교 2021년 2학기 기계학습 강의 프로젝트
 Machine learning lectures. 2021. </br>
+발표 PPT : [LINK](https://github.com/younghwani/ScalpProject/blob/master/presentation.pdf) </br>
+
 ## 두피 상태 분류 프로젝트
 
 ### Data
